@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googleMod" content="index,follow" />
           <meta
             name="description"
-            content="How about moderating your own server with CaptainMod? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="How about moderating your own server with CaptainMod? Protect your community with the best moderation Discord bot."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@CaptainMod" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about moderating your own server with CaptainMod? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="How about moderating your own server with CaptainMod? Protect your community with the best moderation Discord bot."
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="CaptainMod" />
